@@ -1,1 +1,1 @@
-# Email_resources
+# Resources
